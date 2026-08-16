@@ -1,0 +1,12 @@
+body, html { height: 100%; margin: 0; }
+.chat { margin-top: auto; margin-bottom: auto; }
+.card { height: 500px; border-radius: 15px !important; background-color: rgba(0,0,0,0.4) !important; }
+.msg_head { border-radius: 15px 15px 0 0 !important; border-bottom: 0 !important; }
+.msg_card_body { overflow-y: auto; }
+.card-footer { border-radius: 0 0 15px 15px !important; border-top: 0 !important; }
+.type_msg { background-color: rgba(0,0,0,0.3) !important; border: 0 !important; color: white !important; height: 60px !important; }
+.send_btn { border-radius: 0 15px 15px 0 !important; background-color: rgba(0,0,0,0.3) !important; border: 0 !important; color: white !important; cursor: pointer; }
+.user_img { height: 40px; width: 40px; border: 1.5px solid #f5f6fa; }
+.online_icon { position: absolute; height: 10px; width: 10px; background-color: #4cd137; border-radius: 50%; bottom: 0.2em; right: 0.4em; border: 1.5px solid white; }
+.msg_cotainer { margin-left: 10px; border-radius: 25px; background-color: #82ccdd; padding: 10px; position: relative; }
+.msg_cotainer_send { margin-right: 10px; border-radius: 25px; background-color: #78e08f; padding: 10px; position: relative; }
